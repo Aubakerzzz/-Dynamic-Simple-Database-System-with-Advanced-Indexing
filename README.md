@@ -8,3 +8,4 @@
   maintaining linked lists associated with each key. Overall, DSDB provides a user-friendly interface and efficient 
   indexing capabilities for managing and analyzing data effectively.
   </p>
+<img src="SS/Screenshot 2023-06-01 162610.png"/>
