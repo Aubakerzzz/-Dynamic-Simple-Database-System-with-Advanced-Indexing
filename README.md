@@ -9,3 +9,8 @@
   indexing capabilities for managing and analyzing data effectively.
   </p>
 <img src="SS/Screenshot 2023-06-01 162610.png"/>
+<img src="SS/Screenshot 2023-06-01 162845.png"/>
+<img src="SS/Screenshot 2023-06-01 162914.png"/>
+<img src="SS/Screenshot 2023-06-01 162958.png"/>
+<img src="SS/Screenshot 2023-06-01 163039.png"/>
+<img src="SS/Screenshot 2023-06-01 163217.png"/>
